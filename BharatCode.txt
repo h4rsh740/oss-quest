@@ -1,0 +1,10 @@
+# BharatCode Build League Submission File
+Project Name: OSS Quest
+Recovery Engine: PHOENIX Autonomous Software Recovery Engine
+Tagline: Find the issue. Fix the code. Prove the repair.
+Event: BharatCode Build League
+Primary Model: qwen-3.8-27b via BharatCode API (https://bharatcode.ai/api/model/v1)
+Architecture: Autonomous Issue Discovery, Scoped Code Reconnaissance, Validated Unified Diff Generation, Isolated Sandbox Verification, Empirical Test Proof
+Built by: Antigravity Autonomous Engineering Agent
+Date: 2026-10-24
+Status: Verified & Production-Ready Open-Source Platform
