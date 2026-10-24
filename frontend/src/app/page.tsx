@@ -19,7 +19,10 @@ import {
 
 export default function LandingPage() {
   return (
-    <div className="min-h-screen bg-black text-zinc-100 flex flex-col font-sans selection:bg-rose-900 selection:text-white">
+    <div
+      className="min-h-screen bg-black text-zinc-100 flex flex-col font-sans selection:bg-rose-900 selection:text-white"
+      suppressHydrationWarning
+    >
       <Navbar />
 
       <main className="flex-1">
