@@ -7,6 +7,7 @@ from backend.app.api.health import router as health_router
 from backend.app.api.issues import router as issues_router
 from backend.app.api.repairs import router as repairs_router
 from backend.app.api.demo import router as demo_router
+from backend.app.api.config import router as config_router
 
 
 @asynccontextmanager
@@ -37,6 +38,7 @@ app.include_router(health_router, prefix="/api/v1")
 app.include_router(issues_router, prefix="/api/v1")
 app.include_router(repairs_router, prefix="/api/v1")
 app.include_router(demo_router, prefix="/api/v1")
+app.include_router(config_router, prefix="/api/v1")
 
 
 @app.get("/")
