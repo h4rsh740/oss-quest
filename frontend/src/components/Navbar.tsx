@@ -84,7 +84,7 @@ export const Navbar: React.FC = () => {
 
           {/* GitHub Link */}
           <a
-            href="https://github.com/bharatcode-community/oss-quest"
+            href="https://github.com/h4rsh740/oss-quest"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-md hover:bg-zinc-900 text-zinc-400 hover:text-zinc-200 transition"

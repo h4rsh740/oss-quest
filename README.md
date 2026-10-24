@@ -78,7 +78,7 @@ OSS Quest includes a dark-first developer workspace built with Next.js 16 and Ta
 
 ### 1. Clone Repository & Setup Backend
 ```bash
-git clone https://github.com/bharatcode-community/oss-quest.git
+git clone https://github.com/h4rsh740/oss-quest.git
 cd oss-quest
 
 # Create Python virtual environment

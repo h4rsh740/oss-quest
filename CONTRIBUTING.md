@@ -6,7 +6,7 @@ Thank you for your interest in contributing to **OSS Quest**! We welcome bug rep
 
 ### 1. Clone & Set Up Backend
 ```bash
-git clone https://github.com/bharatcode-community/oss-quest.git
+git clone https://github.com/h4rsh740/oss-quest.git
 cd oss-quest
 
 # Python virtual environment (Python 3.10+)

@@ -278,7 +278,7 @@ export default function LandingPage() {
               Discover
             </Link>
             <a
-              href="https://github.com/bharatcode-community/oss-quest"
+              href="https://github.com/h4rsh740/oss-quest"
               target="_blank"
               rel="noreferrer"
               className="hover:text-zinc-300"
